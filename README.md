@@ -21,17 +21,3 @@
     
 </body>
 </html>
-
-
-*{
-    background-color:darkkhaki;
-}
-h3{
-    font-size: 36px;
-}
-h4{
-    font-size: 36px;
-}
-.nr{
-    border-radius: 50%;
-}
